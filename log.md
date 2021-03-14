@@ -19,6 +19,29 @@ In addition, I wrote a program to compute the gravitational force between Earth 
 
 ---
 
+# Day 02 - Learn Programming Basics
+
+#### Month: March 14, 2021
+
+**Focus**: Today the focus was on data types such as integer, string, float, and boolean
+
+**Progress**:
+- Learned how to use the len() function
+- How to read error messages
+- How to assign values to variables
+- How to use unary increment and decrement operators
+- When to use single and double quotes accordingly
+
+**Thoughts**:  I have learned the fundamental concepts of data types. 
+
+
+
+**Work & Resources:**:
+
+[Day2 activities](https://github.com/jsanon01/100-days-of-python/blob/main/resources/day2)
+
+---
+
 # Day XX - Title
 
 #### Month: March XX, 2021
@@ -33,5 +56,3 @@ In addition, I wrote a program to compute the gravitational force between Earth 
 **Work & Resources:**:
 
 [Title link name](https://github.com/jsanon01/100-days-of-python/blob/main/resources/day1/program.py)
-
----
