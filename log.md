@@ -1,6 +1,6 @@
 # Day 01 - Introduction to python
 
-#### Month: March XX, 2021
+#### Month: March 13, 2021
 
 **Focus**: The learning focuses on understanding the python ecosystem and as well as running my first program
 
