@@ -38,13 +38,36 @@ In addition, I wrote a program to compute the gravitational force between Earth 
 
 **Work & Resources:**:
 
-[Day2 activities](https://github.com/jsanon01/100-days-of-python/blob/main/resources/day2)
+[Day 02 activities](https://github.com/jsanon01/100-days-of-python/blob/main/resources/day2)
 
 ---
 
+# Day 03 - Writing Your Own Functions & String Manipulatione
+
+#### Month: March 15, 2021
+
+**Focus**: Today's lesson was abouth the history of Python and how to manipulate strings.
+
+**Progress**:
+- Learned about the history of Python
+- Also How to write your own functions
+- How to manipulate strings
+
+
+
+**Thoughts**: Strings in Python are surrounded by either single or double quotation marks.
+
+
+
+**Work & Resources:**:
+
+[Day 03 activities](https://github.com/jsanon01/100-days-of-python/blob/main/resources/day3)
+
+----
+
 # Day XX - Title
 
-#### Month: March XX, 2021
+#### Month: March , 2021
 
 **Focus**: 
 
