@@ -42,7 +42,7 @@ In addition, I wrote a program to compute the gravitational force between Earth 
 
 ---
 
-# Day 03 - Writing Your Own Functions & String Manipulatione
+# Day 03 - Writing Your Own Functions & String Manipulation
 
 #### Month: March 15, 2021
 
