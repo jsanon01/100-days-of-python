@@ -65,7 +65,26 @@ In addition, I wrote a program to compute the gravitational force between Earth 
 
 ----
 
-# Day XX - Title
+# Day 04 - Compute Area and Circumference of a Circle
+
+#### Month: March 16, 2021
+
+**Focus**:  Today's lesson was about Area and Circumference of a Circle
+
+**Progress**:
+- 1st function deals with the area of the circle
+- 2nd function deals with the circumference of the circle
+- Script asks for user data which means the given radius
+
+**Thoughts**: Once the radius is given, Python script makes it easy to calculate area and circumference of the circle.
+
+**Work & Resources:**:
+
+[Title link name](https://github.com/jsanon01/100-days-of-python/blob/main/resources/day1/day4)
+
+----
+
+# Day 04 - Title
 
 #### Month: March , 2021
 
@@ -79,3 +98,4 @@ In addition, I wrote a program to compute the gravitational force between Earth 
 **Work & Resources:**:
 
 [Title link name](https://github.com/jsanon01/100-days-of-python/blob/main/resources/day1/program.py)
+
