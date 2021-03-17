@@ -80,7 +80,7 @@ In addition, I wrote a program to compute the gravitational force between Earth 
 
 **Work & Resources:**:
 
-[Title link name](https://github.com/jsanon01/100-days-of-python/blob/main/resources/day1/day4)
+[Day o4 activities](https://github.com/jsanon01/100-days-of-python/blob/main/resources/day1/day4)
 
 ----
 
